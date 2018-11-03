@@ -5,13 +5,14 @@ body {background-color: rgb(252, 236, 216);
     line-height: 18px
     }
 
-header {
+header {background-color: #333333;
 
 }
 
 h1 {text-align: center;
     background-color: black;
-    color: white;
+    color: #eeeeee;
+    font-size: 18px;
 }
 
 h2{
@@ -34,5 +35,5 @@ a{
 
 #bio-image{
 
-    
+
 }
